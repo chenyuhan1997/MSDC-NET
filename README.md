@@ -22,7 +22,7 @@ MSDC-NET aims to become the deep learning model for low-light image enhancement 
 ## :running: TODO
 - [x] Release project page
 - [ ] Release max / min model weights on **Github**
-- [ ] Release paper
+- [ ] Release paper link
 - [ ] Release inference code
 - [ ] Release training code
 - [ ] Release evaluation code
