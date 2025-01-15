@@ -26,3 +26,45 @@ MSDC-NET aims to become the deep learning model for low-light image enhancement 
 - [ ] Release inference code
 - [ ] Release training code
 - [ ] Release evaluation code
+
+## :arrow_forward: Getting Started
+
+### Installation
+
+1. Clone MSDC-NET.
+```bash
+git clone --recursive https://github.com/chenyuhan1997/MSDC-NET
+cd MSDC-NET
+# git submodule update --init --recursive
+```
+2. Create the environment, here we show an example using conda.
+```bash
+conda create -n MSDC-NET python=3.11
+conda activate MSDC-NET
+conda install pytorch torchvision pytorch-cuda=12.1 -c pytorch -c nvidia  # use the correct version of cuda for your system
+pip install opencv, kornia, pytorch_msssim, matplotlib, PIL, scikit-image, scipy, einops, math, typing
+```
+
+### Train & Test
+1. Train
+```bash
+python train.py
+```
+2. Test
+```bash
+python test.py
+```
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
+
+## :city_sunset: Results on Low-light Image Enhancement
+
+<img src="https://github.com/chenyuhan1997/MSDC-NET/blob/main/assets/2.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
+
+The current image is for demonstration purposes only and is not the final product.
+
+:warning: **The current image is for demonstration purposes only and is not the final product.**
+
+
+
+
+
