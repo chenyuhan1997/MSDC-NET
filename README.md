@@ -60,7 +60,6 @@ python test.py
 
 <img src="https://github.com/chenyuhan1997/MSDC-NET/blob/main/assets/2.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
 
-The current image is for demonstration purposes only and is not the final product.
 
 :warning: **The current image is for demonstration purposes only and is not the final product.**
 
