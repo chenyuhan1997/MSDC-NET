@@ -6,9 +6,7 @@
 
 # :fire::fire::fire: FRR-NET: A Fast Reparameterized Residual Network for Low-light Image Enhancement
 
-- :star: - Arxiv (Coming Soon)
-- :star: - [DATESET  LOL](https://daooshee.github.io/BMVC2018website/)
--          [DATESET  FIVEK](https://data.csail.mit.edu/graphics/fivek/)
--          [DATESET  LSRW](https://github.com/JianghaiSCU/R2RNet) 
-- :star: - Pretrained Models `Train_result/channel_48/Encoder_weight.pkl` `Train_result/channel_30/Encoder_weight.pkl`
+- :star: - **Arxiv** (Coming Soon)
+- :star: - **DATESET:**[LOL](https://daooshee.github.io/BMVC2018website/) [FIVEK](https://data.csail.mit.edu/graphics/fivek/) [LSRW](https://github.com/JianghaiSCU/R2RNet) 
+- :star: - **Pretrained Models:** `Train_result/channel_48/Encoder_weight.pkl` `Train_result/channel_30/Encoder_weight.pkl`
 
