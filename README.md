@@ -10,3 +10,6 @@
 - :star: - **DATESET:**[LOL](https://daooshee.github.io/BMVC2018website/) [FIVEK](https://data.csail.mit.edu/graphics/fivek/) [LSRW](https://github.com/JianghaiSCU/R2RNet) 
 - :star: - **Pretrained Models:** `Train_result/channel_48/Encoder_weight.pkl` `Train_result/channel_30/Encoder_weight.pkl`
 
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
+
+## Introduction
