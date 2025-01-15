@@ -14,3 +14,15 @@
 
 ## Introduction
 <img src="https://github.com/chenyuhan1997/MSDC-NET/blob/main/assets/1.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
+
+MSDC-NET aims to become the deep learning model for low-light image enhancement with the smallest number of parameters and minimal floating-point operations in recent years. Both the model and its variants have parameter counts of ≤ **240 bytes**. Experimental validation demonstrates that MSDC-NET achieves state-of-the-art performance compared to existing algorithms across multiple metrics, including SSIM, PSNR, parameters, and FLOPs
+
+<img width="200%" src="https://github.com/chenyuhan1997/chenyuhan1997/blob/main/assets/hr.gif" />
+
+## :running: TODO
+- [x] Release project page
+- [ ] Release max / min model weights on **Github**
+- [ ] Release paper
+- [ ] Release inference code
+- [ ] Release training code
+- [ ] Release evaluation code
